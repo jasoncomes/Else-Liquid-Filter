@@ -1,6 +1,6 @@
 # frozen_string_literal: true
 
-# else / https://www.notion.so/highereducation/else-de053abe2b024934b0cacafcf4348071
+# else / https://github.com/jasoncomes/Else-Liquid-Filter
 # If the input variable is not true then this will display the output.
 # {{ image | else: " has-image" }}
 
