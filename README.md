@@ -17,8 +17,6 @@
 
 ## **Example**
 
----
-
 ### Input
 
     {% assign var1 = "hello world" %}
